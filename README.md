@@ -7,5 +7,6 @@ Goutam Rajeev Kumar: Firebase, Google Sign In, News api and settings (date)
 Neeharika Ramu : Share Function, Recycler view, Card view and settings (color)
 Jovin John Mathew: Fragments, Card View, recycler view and settings (Number of times)
 And goutam also did the very important task of annoying everyone 
-well neeharika doesnt work unless annoyed so goutam had to, and he is amazing so....worship him 
-DONT WORSHIP HIM HE WILL ANNOY YOU EVERYDAY and make you do weird dances for him
+well neeharika doesnt work unless annoyed so goutam had to, and he is amazing so....worship him
+
+When sked who her favourite charecter from harrpy potter is ...neeharika answered umbridge
