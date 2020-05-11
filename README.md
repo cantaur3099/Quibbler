@@ -4,5 +4,6 @@ Quibbler is an app that allows its users to browse news articles from different 
 
 Work Distribution:
 Goutam Rajeev Kumar: Firebase, Google Sign In, News api and settings (date)
-Neeharika Ramu : Share Function, Recycler view, Card view and settings (color)
+Neeharika Ramu : Share Function, Recycler view, Card view and settings 
 Jovin John Mathew: Fragments, Card View, recycler view and settings (Number of times)
+And goutam also did the very important task of annoying everyone 
