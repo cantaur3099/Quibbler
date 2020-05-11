@@ -10,3 +10,4 @@ And goutam also did the very important task of annoying everyone
 well neeharika doesnt work unless annoyed so goutam had to, and he is amazing so....worship him
 
 When sked who her favourite charecter from harrpy potter is ...neeharika answered umbridge
+Neeharika's favourite character is Tonks oh and goutam says that all muggle borns are mudbloods :(
