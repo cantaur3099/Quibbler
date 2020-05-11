@@ -1,7 +1,8 @@
-Project Name : Quibbler Scope and Need:
-Quibbler is an app that allows it s users to browse news articles from different sources while not having to refer to multiple news apps. It is all the news you need in one place. News is divided into sections and it allows the user to share or save any news article of their liking. To monitor usage we have implemented google sign up using firebase, which gives us real time data about the no. of users currently using the application, the user retention rate, user geographic diversity etc.
+Project Name : Quibbler 
+Scope and Need:
+Quibbler is an app that allows its users to browse news articles from different sources while not having to refer to multiple news apps. It is all the news you need in one place. News is divided into sections and it allows the user to share or save any news article of their liking. To monitor usage we have implemented google sign up using firebase, which gives us real time data about the number of users currently using the application, the user retention rate, user geographic diversity etc.
 
-Wok Distribution:
+Work Distribution:
 Goutam Rajeev Kumar: Firebase, Google Sign In, News api and settings (date)
-Neeharika Ramu : Share Function, Recycler view,Card view and settings (color)
-Jovin Joh Mathew: Fragments ,Card View, recycler view and settings (No of times)
+Neeharika Ramu : Share Function, Recycler view, Card view and settings (color)
+Jovin John Mathew: Fragments, Card View, recycler view and settings (Number of times)
