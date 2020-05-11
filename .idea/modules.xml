@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-news-app-master 5.iml" filepath="$PROJECT_DIR$/android-news-app-master 5.iml" group="android-news-app-master 5" />
+      <module fileurl="file://$PROJECT_DIR$/app/android-news-app-master 5-app.iml" filepath="$PROJECT_DIR$/app/android-news-app-master 5-app.iml" group="android-news-app-master 5/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
